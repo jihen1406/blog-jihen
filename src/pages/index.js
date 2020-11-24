@@ -76,7 +76,7 @@ const IndexPage = ({ data }) => {
 <ul>
 <li>Arabe: langue marternelle</li>
 <li>Français: Courant</li>
-<li>Anglais: Courant</li>
+<li>Anglais: moyen</li>
 
 </ul>
 
